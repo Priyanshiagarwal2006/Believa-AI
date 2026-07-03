@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Believa AI
+#  Believa AI
 
 ### AI-Powered Spiritual Wellness Platform
 
@@ -71,9 +71,6 @@ Unlock premium content through a secure subscription workflow integrated with on
 
 Enjoy customized recommendations, saved content, personalized dashboards, and seamless user journeys.
 
-### 📱 Responsive Design
-
-Optimized across desktop, tablet, and mobile devices with consistent performance and usability.
 
 ### ⚡ Performance Optimizations
 
@@ -100,8 +97,6 @@ My responsibilities included:
 - Improving application responsiveness
 - Maintaining scalable and modular architecture
 - Delivering clean, maintainable, and production-quality code
-
-This project strengthened my experience in full-stack development, API integration, authentication systems, performance optimization, and building scalable applications for real-world users.
 
 # 🏗 Project Architecture
 
@@ -211,27 +206,6 @@ Authentication  AI Services   Payments      Database
 
 Explore the live platform to experience its modern interface, AI-powered guidance, authentication system, subscription workflow, and overall user experience.
 
-# 📌 Repository Information
-
-This repository is intended exclusively for portfolio and project showcase purposes.
-
-Due to internship ownership and confidentiality agreements, the implementation source code cannot be made publicly available.
-
-The live application demonstrates the project's complete functionality, architecture, and user experience while respecting project confidentiality.
-
-# 👩‍💻 Developer
-
-**Priyanshi Agarwal**
-
-Software Developer • Full Stack Developer • React Native Developer
-
-📧 **agarwalpriyanshi690@gmail.com**
-
-🌐 **Portfolio:** https://priyanshi-2006.netlify.app/
-
-💼 **LinkedIn:** https://linkedin.com/in/priyanshi-agarwal-0bb444291
-
-🐙 **GitHub:** https://github.com/priyanshiagarwal2006
 
 <div align="center">
 
