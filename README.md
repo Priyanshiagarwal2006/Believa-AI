@@ -158,8 +158,6 @@ Authentication  AI Services   Payments      Database
 
 # 📷 Project Gallery
 
-## 📷 Project Gallery
-
 ### 🚀 Splash Screen
 
 <p align="center">
