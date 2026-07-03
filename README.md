@@ -158,32 +158,43 @@ Authentication  AI Services   Payments      Database
 
 # 📷 Project Gallery
 
-## 🚀 Splash Screen
+## 📷 Project Gallery
 
-<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/splash%20screen.jpeg" alt="Splash Screen"/>
+### 🚀 Splash Screen
 
-## 🏠 Home Page
+<p align="center">
+  <img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/splash%20screen.jpeg?raw=true" width="280" alt="Splash Screen"/>
+</p>
 
-<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/home%20screen.jpeg" alt="Home Page"/>
+### 🏠 Home Page
 
-## 🤖 AI Spiritual Guide
+<p align="center">
+  <img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/home%20screen.jpeg?raw=true" width="280" alt="Home Page"/>
+</p>
 
-<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/ai%20guide.jpeg" alt="AI Guide"/>
+### 🤖 AI Spiritual Guide
 
-## 📚 Spiritual Library
+<p align="center">
+  <img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/ai%20guide.jpeg?raw=true" width="280" alt="AI Guide"/>
+</p>
 
-<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/library%20screen.jpeg" alt="Library"/>
+### 📚 Spiritual Library
 
-## 💳 Subscription Plans
+<p align="center">
+  <img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/library%20screen.jpeg?raw=true" width="280" alt="Library"/>
+</p>
 
-<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/subscription%20screen.jpeg" alt="Subscription"/>
+### 💳 Subscription Plans
 
-## 👤 User Dashboard
+<p align="center">
+  <img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/subscription%20screen.jpeg?raw=true" width="280" alt="Subscription"/>
+</p>
 
-<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/user%20profile.jpeg" alt="Dashboard"/>
+### 👤 User Dashboard
 
-
-
+<p align="center">
+  <img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/user%20profile.jpeg?raw=true" width="280" alt="Dashboard"/>
+</p>
 <div align="center">
 
 ### ⭐ Thank you for visiting this repository!
