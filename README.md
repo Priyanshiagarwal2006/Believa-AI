@@ -19,7 +19,11 @@ Making ancient spiritual wisdom more accessible through Artificial Intelligence,
   <a href="#-project-gallery">Gallery</a>
 </p>
 
-<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/home%20screen.jpeg" width="100%" alt="Believa AI Banner"/>
+<p align="center">
+  <img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/home%20screen.jpeg"
+       alt="Believa AI Banner"
+       width="40%"/>
+</p>
 
 </div>
 
