@@ -19,12 +19,6 @@ Making ancient spiritual wisdom more accessible through Artificial Intelligence,
   <a href="#-project-gallery">Gallery</a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/home%20screen.jpeg"
-       alt="Believa AI Banner"
-       width="40%"/>
-</p>
-
 </div>
 
 # 📖 About The Project
@@ -166,27 +160,27 @@ Authentication  AI Services   Payments      Database
 
 ## 🚀 Splash Screen
 
-<img src="https://placehold.co/1200x650?text=Splash+Screen" alt="Splash Screen"/>
+<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/splash%20screen.jpeg" alt="Splash Screen"/>
 
 ## 🏠 Home Page
 
-<img src="https://placehold.co/1200x650?text=Home+Page" alt="Home Page"/>
+<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/home%20screen.jpeg" alt="Home Page"/>
 
 ## 🤖 AI Spiritual Guide
 
-<img src="https://placehold.co/1200x650?text=AI+Guide" alt="AI Guide"/>
+<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/ai%20guide.jpeg" alt="AI Guide"/>
 
 ## 📚 Spiritual Library
 
-<img src="https://placehold.co/1200x650?text=Library" alt="Library"/>
+<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/library%20screen.jpeg" alt="Library"/>
 
 ## 💳 Subscription Plans
 
-<img src="https://placehold.co/1200x650?text=Subscription+Plans" alt="Subscription"/>
+<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/subscription%20screen.jpeg" alt="Subscription"/>
 
 ## 👤 User Dashboard
 
-<img src="https://placehold.co/1200x650?text=User+Dashboard" alt="Dashboard"/>
+<img src="https://github.com/Priyanshiagarwal2006/Believa-AI/blob/main/user%20profile.jpeg" alt="Dashboard"/>
 
 
 
