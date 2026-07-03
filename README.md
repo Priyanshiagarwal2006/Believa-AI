@@ -130,17 +130,11 @@ Authentication  AI Services   Payments      Database
 ## Backend
 
 - Node.js
-- Express.js
 - REST APIs
 
 ## Database
 
 - MySQL
-
-## Authentication
-
-- Google OAuth
-- JWT Authentication
 
 ## Payment Gateway
 
@@ -149,17 +143,7 @@ Authentication  AI Services   Payments      Database
 ## AI Integration
 
 - Sarvam AI API
-
-## Cloud Services
-
-- Cloudinary
-
-## Development Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
+  
 
 # 📊 Project Highlights
 
@@ -200,11 +184,6 @@ Authentication  AI Services   Payments      Database
 
 <img src="https://placehold.co/1200x650?text=User+Dashboard" alt="Dashboard"/>
 
-# 🌍 Live Demo
-
-🔗 **Website:** https://www.thebelieva.com/
-
-Explore the live platform to experience its modern interface, AI-powered guidance, authentication system, subscription workflow, and overall user experience.
 
 
 <div align="center">
