@@ -2,127 +2,126 @@
 
 # 🌿 Believa AI
 
-### *AI-Powered Spiritual Wellness Platform*
+### AI-Powered Spiritual Wellness Platform
 
 Making ancient spiritual wisdom more accessible through Artificial Intelligence, personalized guidance, and modern web technologies.
 
-<p>
-
-<a href="https://www.thebelieva.com/">🌐 Live Website</a> •
-<a href="#-features">Features</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-project-gallery">Gallery</a>
-
+<p align="center">
+  <a href="https://www.thebelieva.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-Visit_Now-4CAF50?style=for-the-badge" alt="Live Website"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.thebelieva.com/">Live Demo</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-project-gallery">Gallery</a>
+</p>
 
-<img src="https://placehold.co/1100x550?text=Believa+AI+Home+Screen" width="100%" />
+<img src="https://placehold.co/1200x600?text=Believa+AI+Banner" width="100%" alt="Believa AI Banner"/>
 
 </div>
 
 # 📖 About The Project
 
-Believa AI is a modern AI-powered spiritual wellness platform designed to bridge timeless spiritual knowledge with today's digital experiences.
+Believa AI is a modern AI-powered spiritual wellness platform that bridges timeless spiritual wisdom with today's digital experiences.
 
-The platform enables users to explore sacred scriptures, receive AI-powered spiritual guidance, manage personalized learning journeys, and access premium spiritual content through an elegant and intuitive interface.
+Designed with scalability, performance, and user experience in mind, the platform enables users to interact with an AI-powered Spiritual Guide, explore sacred scriptures, manage personalized spiritual journeys, and access premium content through a secure subscription model.
 
-Built with scalability, performance, and user experience in mind, Believa AI combines modern full-stack technologies with Artificial Intelligence to create a seamless platform that serves users across multiple devices.
+Rather than simply displaying information, Believa AI delivers meaningful, interactive, and personalized experiences using Artificial Intelligence, modern web technologies, and intuitive design principles.
 
-Rather than simply presenting information, the platform delivers interactive, personalized, and meaningful spiritual experiences powered by intelligent conversations and carefully designed user workflows.
+The platform focuses on creating a seamless digital ecosystem where users can learn, explore, and grow spiritually through intelligent conversations and beautifully crafted interfaces.
 
 > **Repository Notice**
 >
-> This repository is maintained for portfolio and project showcase purposes only. The source code cannot be shared publicly because it was developed during a professional internship and remains confidential.
-
----
+> This repository is maintained for portfolio and project showcase purposes only. The complete source code is not publicly available because it was developed during a professional internship and remains confidential.
 
 # ✨ Features
 
+### 🚀 Beautiful Splash Experience
+
+A modern splash screen that creates a smooth onboarding experience while initializing application resources and providing users with a polished first impression.
+
 ### 🤖 AI Spiritual Guide
 
-Interact with an AI-powered assistant capable of answering spiritual questions, providing guidance, and helping users understand scriptures in a personalized manner.
+Interact with an intelligent AI assistant capable of answering spiritual questions, explaining concepts, and providing personalized guidance.
 
----
+### 📚 Digital Spiritual Library
 
-### 📚 Digital Scripture Library
+Browse scriptures through an organized library with intuitive chapter and verse navigation for an immersive reading experience.
 
-Browse spiritual books with organized chapters and verses, allowing users to explore content in a structured and distraction-free environment.
+### 🔍 Intelligent Search
 
----
+Quickly discover spiritual topics, scriptures, and relevant content through a powerful search experience.
 
-### 👤 Authentication System
+### 👤 Secure Authentication
 
-- Secure Sign Up
-- Login
+- User Registration
+- Secure Login
 - Google Authentication
 - Protected Routes
-- User Profile Management
+- Profile Management
 
----
+### 💳 Subscription System
 
-### 💳 Premium Subscription
+Unlock premium content through a secure subscription workflow integrated with online payment services.
 
-Integrated subscription workflow allowing users to unlock premium spiritual content through secure online payments.
+### ❤️ Personalized User Experience
 
----
+Enjoy customized recommendations, saved content, personalized dashboards, and seamless user journeys.
 
-### ❤️ Personalized Experience
+### 📱 Responsive Design
 
-Every user receives a personalized dashboard, saved content, recent activity, and recommendations based on their interactions.
-
----
+Optimized across desktop, tablet, and mobile devices with consistent performance and usability.
 
 ### ⚡ Performance Optimizations
 
-- Faster page loading
 - Optimized API communication
-- Responsive layouts
-- Reusable components
-- Clean architecture
-- Smooth user experience
-
----
+- Faster page rendering
+- Reusable UI components
+- Modular architecture
+- Smooth navigation
+- High-performance user experience
 
 # 🚀 My Contribution
 
-During my internship as a **Software Developer**, I contributed to both frontend and backend development of the Believa AI platform.
+As a **Software Developer Intern**, I contributed to both frontend and backend development of the Believa AI platform.
 
 My responsibilities included:
 
-- Developing responsive and reusable user interface components
-- Building scalable application modules
-- Integrating REST APIs across multiple features
-- Implementing authentication and user management
-- Working on subscription workflows
-- Improving frontend responsiveness
-- Optimizing backend API performance
-- Enhancing maintainability using modular architecture
-- Delivering production-ready features following modern development practices
+- Designing and developing responsive user interfaces
+- Building reusable React components
+- Developing production-ready application modules
+- Integrating RESTful APIs
+- Implementing secure authentication workflows
+- Working on premium subscription functionality
+- Optimizing frontend rendering and backend performance
+- Improving application responsiveness
+- Maintaining scalable and modular architecture
+- Delivering clean, maintainable, and production-quality code
 
-This project significantly strengthened my experience in full-stack development, API integration, performance optimization, and building scalable applications for real-world users.
-
----
+This project strengthened my experience in full-stack development, API integration, authentication systems, performance optimization, and building scalable applications for real-world users.
 
 # 🏗 Project Architecture
 
+```text
+                   User
+                     │
+                     ▼
+          Next.js Frontend (React)
+                     │
+              REST API Requests
+                     │
+                     ▼
+           Node.js Backend Services
+                     │
+ ┌──────────────┬───────────────┬───────────────┐
+ │              │               │               │
+ ▼              ▼               ▼               ▼
+Authentication  AI Services   Payments      Database
+ (JWT/OAuth)   (Sarvam AI)   (Razorpay)     (MySQL)
 ```
-Client
-      │
-      ▼
- Next.js Frontend
-      │
- REST API Layer
-      │
- Node.js Backend
-      │
-Authentication • Payments • AI Services
-      │
-      ▼
-    MySQL Database
-```
-
----
 
 # 🛠 Tech Stack
 
@@ -136,6 +135,7 @@ Authentication • Payments • AI Services
 ## Backend
 
 - Node.js
+- Express.js
 - REST APIs
 
 ## Database
@@ -145,9 +145,9 @@ Authentication • Payments • AI Services
 ## Authentication
 
 - Google OAuth
-- JWT
+- JWT Authentication
 
-## Payments
+## Payment Gateway
 
 - Razorpay
 
@@ -155,78 +155,69 @@ Authentication • Payments • AI Services
 
 - Sarvam AI API
 
-## Tools
+## Cloud Services
+
+- Cloudinary
+
+## Development Tools
 
 - Git
 - GitHub
 - VS Code
 - Postman
-- Cloudinary
 
----
+# 📊 Project Highlights
 
-# 📊 Highlights
-
-- 🚀 Production-ready application
-- 🤖 AI-powered user interactions
-- 🔐 Secure authentication
-- 💳 Subscription-based premium model
-- 📱 Fully responsive interface
-- ⚡ Optimized performance
-- 🧩 Modular architecture
-- 🌐 Modern full-stack development
-
----
+- 🚀 Production-ready Full Stack Application
+- 🤖 AI-powered Spiritual Assistant
+- 📱 Fully Responsive Design
+- 🔐 Secure Authentication System
+- 💳 Subscription-Based Premium Features
+- 📚 Digital Spiritual Library
+- ⚡ Optimized Performance
+- 🧩 Component-Based Architecture
+- 🌐 Modern User Experience
+- 📈 Scalable Application Design
 
 # 📷 Project Gallery
 
+## 🚀 Splash Screen
+
+<img src="https://placehold.co/1200x650?text=Splash+Screen" alt="Splash Screen"/>
+
 ## 🏠 Home Page
 
-<img src="https://placehold.co/1200x650?text=Home+Page" />
-
----
+<img src="https://placehold.co/1200x650?text=Home+Page" alt="Home Page"/>
 
 ## 🤖 AI Spiritual Guide
 
-<img src="https://placehold.co/1200x650?text=AI+Guide" />
-
----
+<img src="https://placehold.co/1200x650?text=AI+Guide" alt="AI Guide"/>
 
 ## 📚 Spiritual Library
 
-<img src="https://placehold.co/1200x650?text=Library" />
+<img src="https://placehold.co/1200x650?text=Library" alt="Library"/>
 
----
+## 💳 Subscription Plans
 
-## 💳 Subscription
-
-<img src="https://placehold.co/1200x650?text=Subscription+Page" />
-
----
+<img src="https://placehold.co/1200x650?text=Subscription+Plans" alt="Subscription"/>
 
 ## 👤 User Dashboard
 
-<img src="https://placehold.co/1200x650?text=Dashboard" />
-
----
+<img src="https://placehold.co/1200x650?text=User+Dashboard" alt="Dashboard"/>
 
 # 🌍 Live Demo
 
-### 👉 https://www.thebelieva.com/
+🔗 **Website:** https://www.thebelieva.com/
 
-Explore the live platform to experience its interface, AI-powered guidance, authentication workflow, and overall user experience.
-
----
+Explore the live platform to experience its modern interface, AI-powered guidance, authentication system, subscription workflow, and overall user experience.
 
 # 📌 Repository Information
 
-The purpose of this repository is to showcase the project and my contribution as part of my software development portfolio.
+This repository is intended exclusively for portfolio and project showcase purposes.
 
-Due to internship confidentiality and ownership policies, the implementation source code cannot be published publicly.
+Due to internship ownership and confidentiality agreements, the implementation source code cannot be made publicly available.
 
-The live application demonstrates the complete functionality and reflects the work contributed during development.
-
----
+The live application demonstrates the project's complete functionality, architecture, and user experience while respecting project confidentiality.
 
 # 👩‍💻 Developer
 
@@ -234,20 +225,18 @@ The live application demonstrates the complete functionality and reflects the wo
 
 Software Developer • Full Stack Developer • React Native Developer
 
-📧 agarwalpriyanshi690@gmail.com
+📧 **agarwalpriyanshi690@gmail.com**
 
-🌐 Portfolio  
-https://priyanshi-2006.netlify.app/
+🌐 **Portfolio:** https://priyanshi-2006.netlify.app/
 
-💼 LinkedIn  
-https://linkedin.com/in/priyanshi-agarwal-0bb444291
+💼 **LinkedIn:** https://linkedin.com/in/priyanshi-agarwal-0bb444291
 
----
+🐙 **GitHub:** https://github.com/priyanshiagarwal2006
 
 <div align="center">
 
-### ⭐ Thank you for visiting this repository.
+### ⭐ Thank you for visiting this repository!
 
-*Building meaningful products through clean code, scalable architecture, and continuous learning.*
+*Building scalable software, crafting intuitive user experiences, and leveraging AI to create meaningful digital solutions.*
 
 </div>
